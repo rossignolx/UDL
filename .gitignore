@@ -1,0 +1,6 @@
+data/**
+**/data/**
+!data/permuted_mnists_permutations.npy
+.idea/
+**/__pycache__/**
+ckpt/

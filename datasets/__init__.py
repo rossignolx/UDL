@@ -1,0 +1,1 @@
+from datasets.permuted_mnist import PermutedMnist

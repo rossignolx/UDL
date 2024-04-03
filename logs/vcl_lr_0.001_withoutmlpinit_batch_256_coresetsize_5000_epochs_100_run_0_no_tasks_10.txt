@@ -1,0 +1,9 @@
+[Number Tasks: 1]: Task 1 Accuracy: 0.9799
+Task 1 / 10. Mean Accuracy: 0.9799
+[Number Tasks: 1]: Task 1 Accuracy: 0.9768
+[Number Tasks: 2]: Task 2 Accuracy: 0.9704
+Task 2 / 10. Mean Accuracy: 0.9736
+[Number Tasks: 1]: Task 1 Accuracy: 0.9756
+[Number Tasks: 2]: Task 2 Accuracy: 0.9679
+[Number Tasks: 3]: Task 3 Accuracy: 0.9672
+Task 3 / 10. Mean Accuracy: 0.9702333333333333
